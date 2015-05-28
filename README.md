@@ -5,6 +5,7 @@ Script automatically checks for, downloads and installs all updates (and reboots
 - [Manual uninstallation](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#manual-uninstallation)
 - [Automatical installation and uninstallation](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#automatical-installation-and-uninstallation)
 - [Recommended actions before running script](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#recommended-actions-before-running-script)
+
 # Manual installation
 TO DO
 # Manual uninstallation
