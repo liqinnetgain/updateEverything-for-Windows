@@ -15,8 +15,9 @@ The script uses Windows Update Agent API. The script was tested on Windows 7 and
 6. Check "Run as Administrator"
 7. Move the shortcut to "C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" where username is your username and C is the disk you have installed Windows on.
 8. Run shortcut and leave computer alone to finish
-9. You will be notified when Windows is fully updated.
-10. When Windows is fully updated, temove the shortcut from the folder mentoined above, to prevent script from running again every boot.
+9. The computer may be rebooted several times
+10. You will be notified when Windows is fully updated.
+11. When Windows is fully updated, remove the shortcut from the folder mentoined above, to prevent script from running again every boot.
 # Automatical installation
 WORK IN PROGRESS
 # Recommended actions before running script:
