@@ -3,7 +3,7 @@ Script automatically checks for, downloads and installs all updates (and reboots
 The script uses Windows Update Agent API. The script was tested on Windows 7 and Windows 8.1 only, but it should work on all versions from Windows XP on.
 # Table of contents
 - [Manual installation](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#manual-installation)
-- [Automatical installation](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#automatical-installation)
+- [Automatic installation](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#automatic-installation)
 - [Recommended actions before running script](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#recommended-actions-before-running-script)
 
 # Manual installation
@@ -19,7 +19,7 @@ The script uses Windows Update Agent API. The script was tested on Windows 7 and
 10. You will be notified when Windows is fully updated.
 11. When Windows is fully updated, remove the shortcut from the folder mentoined above, to prevent script from running again every boot.
 
-# Automatical installation
+# Automatic installation
 WORK IN PROGRESS
 
 # Recommended actions before running script:
