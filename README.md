@@ -7,7 +7,7 @@ The script uses Windows Update Agent API. The script was tested on Windows 7 and
 - [Recommended actions before running script](https://github.com/kv1dr/updateEverything-for-Windows/blob/master/README.md#recommended-actions-before-running-script)
 
 # Manual installation
-1. Select "Donwload ZIP" button on the right side of this page
+1. Select "Donwload ZIP" button on the right side of this page(or here: https://github.com/kv1dr/updateEverything-for-Windows/archive/master.zip)
 2. Extract content from the ZIP to any location
 3. Right click on the "updateEverything.bat" file and choose "Create shortcut"
 4. Right click on the newly created shortcut and choose "Properties"
