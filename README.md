@@ -18,8 +18,10 @@ The script uses Windows Update Agent API. The script was tested on Windows 7 and
 9. The computer may be rebooted several times
 10. You will be notified when Windows is fully updated.
 11. When Windows is fully updated, remove the shortcut from the folder mentoined above, to prevent script from running again every boot.
+
 # Automatical installation
 WORK IN PROGRESS
+
 # Recommended actions before running script:
 - You must have only one account and this one account should NOT have any password for Windows to automatically login and rerun script after reboot. When Windows is fully updated, you can add other accounts and passwords if you want to.
 - It's recommended to close all other programs and leave computer alone while this script is running.
